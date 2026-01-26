@@ -32,5 +32,5 @@ Therefore the number of infected people multiply by K+1 every day.
 so the result for day N will be:
     (K+1)^N
 
-In order to exponentiate the number fast enough we will use Modular Inverse with Binary exponentiation.
-[More on Modular Inverse (cp algorithms)](https://cp-algorithms.com/algebra/module-inverse.html)
+In order to exponentiate the number fast enough we will use Binary exponentiation.
+[More on Modular Inverse and Binary exponentiation (cp algorithms)](https://cp-algorithms.com/algebra/module-inverse.html)
