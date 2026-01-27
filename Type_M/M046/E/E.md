@@ -12,3 +12,4 @@ Let the pairs (x,y) represent an edge in a graph, it can be proven that any conn
 We will create a DSU based on these M pairs.
 Then for each item in permutation we will check if the item can be placed in its proper place.
 To do that we will check if item's current index and item's proper index belong to same component.
+We will count the items that can go to its proper place.
