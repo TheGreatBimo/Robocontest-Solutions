@@ -10,7 +10,10 @@ Azimjon can see all other players’ chosen numbers. Determine what number he sh
 
 #### Solution
 The value of
-$ \frac{(S + x)}{(n + 1)} \cdot 0.8 $ should be as close as possible to x, where S is the sum of all other players’ numbers and x is the number Azimjon chooses.
+
+$ \frac{(S + x)}{(n + 1)} \cdot 0.8 $ 
+
+should be as close as possible to x, where S is the sum of all other players’ numbers and x is the number Azimjon chooses.
 
 Let's make this value equal to x and solve for x:
 
